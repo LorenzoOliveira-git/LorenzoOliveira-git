@@ -1,4 +1,4 @@
-![imagem de ínicio](./img/tela_inicial.png)
+![imagem de ínicio](./img/Frame%201.png)
 
 
 
