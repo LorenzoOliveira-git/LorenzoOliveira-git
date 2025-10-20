@@ -2,7 +2,7 @@
 
 
 
-### **Olá pessoal! 👋 Sou o Lorenzo Lima, um estudante da Tecnologia da Informação**
+### **Olá pessoal!👋 Sou o Lorenzo Lima, um estudante da Tecnologia da Informação**
 
 ***
 
