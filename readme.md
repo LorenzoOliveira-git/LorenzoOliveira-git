@@ -1,4 +1,4 @@
-![imagem de ínicio](./img/Frame%201.png)
+![imagem de ínicio](img/Frame%201.png)
 
 
 
@@ -15,7 +15,7 @@
 Vamos nos conectar e construir um futuro juntos! 🌟
 
 <div align="left">
-    <a href="https://medium.com/@lorenzolimadeoliveira2010"><img src="./img/3670098.png" height="35" alt="Medium logo"  /></a>
+    <a href="https://medium.com/@lorenzolimadeoliveira2010"><img src="img/3670098.png" height="35" alt="Medium logo"  /></a>
   <a href="https://www.instagram.com/lorenzo_oliiver/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"/></a>
   <a href="mailto:lorenzolimadeoliveira2010@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"/></a>
   <a href="https://www.linkedin.com/in/lorenzo-lima-789ab038b/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/></a>
@@ -24,18 +24,18 @@ Vamos nos conectar e construir um futuro juntos! 🌟
 ### **Top Skills**
 
 <div align="left">
-  <img src="./img/elephant.png" height="60" alt="typescript logo"  />
+  <img src="img/elephant.png" height="60" alt="postgresql logo"  />
   <img width="12" />
-  <img src="./img/pngwing.com (1).png" height="60" alt="nextjs logo"  />
+  <img src="img/pngwing.com (1).png" height="60" alt="shell script logo"  />
   <img width="12" />
-  <img src="./img/HTML5_logo_and_wordmark.svg.png" height="60" alt="tailwindcss logo"  />
+  <img src="img/HTML5_logo_and_wordmark.svg.png" height="60" alt="HTML logo"  />
   <img width="12" />
-  <img src="./img/CSS3_logo_and_wordmark.svg.png" height="60" alt="storybook logo"  />
+  <img src="img/CSS3_logo_and_wordmark.svg.png" height="60" alt="CSS logo"  />
   <img width="12" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="12" />
-  <img src="./img/java.png" height="60" alt="amazonwebservices logo"  />
+  <img src="img/java.png" height="60" alt="java logo"  />
 </div>
 
 ### **Visite o meu blog**
