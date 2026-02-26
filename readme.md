@@ -1,7 +1,3 @@
-![imagem de ínicio](img/Frame%201.png)
-
-
-
 ### **Olá pessoal!👋 Sou o Lorenzo Lima, um estudante da Tecnologia da Informação**
 
 ***
